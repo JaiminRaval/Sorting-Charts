@@ -11,7 +11,7 @@ import SwiftUI
 struct Sorting_ChartsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BubbleSortChartView()
         }
     }
 }
